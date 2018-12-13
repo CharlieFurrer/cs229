@@ -1,1 +1,1 @@
-test
+Welcome to our github for our CS229 project! You will find the notebooks we used for KNN in FinalKNN.ipynb, the notebook for Linear Regression and SVM in Final_LinregAndSVM.ipynb, the notebook for XGBoost, LightGBM, and our neural network in FinalXGBLightGBMNN.ipynb, and the notebook for SHAP visualization in FinalShap.ipynb.
